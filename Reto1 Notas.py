@@ -4,6 +4,7 @@ materia = input("Ingrese el nombre de la materia: ")
 nota_acumulada = 0
 porcentaje = 0
 respuesta = "S"
+# Comentario de prueba github
 while respuesta == "S":
     nota = float(input("Ingrese la nota obtenida: "))
     porcentage = int(input("Ingrese el porcentaje de la nota: "))
